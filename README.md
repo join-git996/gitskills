@@ -7,4 +7,6 @@ fsdf
 sdf
 
 sdf
-Creating a new granch is quick.
+
+Creating a new branch is quick AND simple.
+
